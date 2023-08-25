@@ -1,0 +1,30 @@
+.background {
+    background-color: #1e1e1e;
+    float: left;
+    position: relative;
+    left: 0%;
+    text-align: left;
+    font-size: 18px;
+}
+
+.background 
+
+.white {
+    color: #ced3d8;
+    font-family: Consolas;
+}
+
+.homeButton {
+    float: left;
+    position: fixed;
+    right: 3%;
+    color: #5395c2;
+    font-family: Consolas;
+    font-size: 35px;
+}
+
+.img {
+    width:30%;
+    border-radius: 10%;
+    border: 5px solid #71ff7f5d;
+}
